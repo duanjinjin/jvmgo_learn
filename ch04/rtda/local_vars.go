@@ -2,7 +2,6 @@ package rtda
 
 import (
 	"math"
-	"unicode"
 )
 
 type LocalVars []Slot
